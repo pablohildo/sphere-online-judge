@@ -1,3 +1,3 @@
-#Sphere Online Judge Solutions
+# Sphere Online Judge Solutions
 
 My SPOJ solutions
